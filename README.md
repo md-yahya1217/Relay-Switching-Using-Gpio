@@ -24,9 +24,9 @@ This project provides a GUI-based control system for switching high-frequency fl
 
 ## GPIO Pin Configuration (Raspberry Pi 5)
 
-GPIO-Pin	      Function	            LCD Screen
-5	        Relay Control 1	Left        LCD ON/OFF
-6	        Relay Control 2	Left        LCD ON/OFF
+GPIO-Pin	      Function	               LCD Screen
+5	         Relay Control 1	Left        LCD ON/OFF
+6	         Relay Control 2	Left        LCD ON/OFF
 24	        Relay Control 3	Right       LCD ON/OFF
 23	        Relay Control 4	Right       LCD ON/OFF
 
@@ -34,15 +34,15 @@ GPIO-Pin	      Function	            LCD Screen
 
 1. Install Dependencies
 
-pip install PyQt6 gpiozero
-
-pip install PyQt6
-
-pip install lgpio 
+   pip install PyQt6 gpiozero
+   
+   pip install PyQt6
+   
+   pip install lgpio 
  
 2. Run the GUI
 
-python lcd_control.py
+   python lcd_control.py
 
 
 ## How It Works
