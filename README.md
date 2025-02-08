@@ -51,4 +51,5 @@ Left LCD ON/OFF → Controls the left LCD
 ## Author
 
 🚀 Developed by Muhammad Yahya
+
 🔧 Embedded Systems Engineer
