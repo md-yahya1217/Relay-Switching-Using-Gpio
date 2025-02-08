@@ -35,7 +35,9 @@ GPIO-Pin	      Function	            LCD Screen
 1. Install Dependencies
 
 pip install PyQt6 gpiozero
+
 pip install PyQt6
+
 pip install lgpio 
  
 2. Run the GUI
