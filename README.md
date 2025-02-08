@@ -6,9 +6,13 @@ This project provides a GUI-based control system for switching high-frequency fl
 
 ## Features
 ✅ GUI Interface: PyQt6-based user-friendly interface for controlling LCD screens.
+
 ✅ Independent Control: Turn ON/OFF two separate LCD screens individually.
+
 ✅ Relay-Based Switching: Uses DPDT relays to switch between high-frequency LCDs.
+
 ✅ GPIO Control: Implements GPIO Zero for relay activation.
+
 ✅ Optimized for Raspberry Pi 5: Leverages enhanced GPIO performance on Pi 5.
 
 
